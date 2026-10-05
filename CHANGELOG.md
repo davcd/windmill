@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.824.0](https://github.com/windmill-labs/windmill/compare/v1.823.1...v1.824.0) (2026-10-05)
+
+
+### Features
+
+* card layout and load-more for the audit logs page ([#11507](https://github.com/windmill-labs/windmill/issues/11507)) ([af1a29a](https://github.com/windmill-labs/windmill/commit/af1a29a3cb33386f61a759ec0dd5eec0ccefefc2))
+
 ## [1.823.1](https://github.com/windmill-labs/windmill/compare/v1.823.0...v1.823.1) (2026-10-05)
 
 
